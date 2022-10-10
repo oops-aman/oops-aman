@@ -22,3 +22,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=oops-aman&theme=tokyonight_duo)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oops-aman&show_icons=true&theme=midnight-purple)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oops-aman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
