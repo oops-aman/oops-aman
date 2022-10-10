@@ -1,6 +1,5 @@
-<h1 align="center">![](https://komarev.com/ghpvc/?username=oops-aman&color=blueviolet)
-
 <h1 align="center">Hi 👋, This is Aman Saurav</h1>
+![](https://komarev.com/ghpvc/?username=oops-aman&color=blueviolet)
 <h3 align="center">A passionate tech enthusiast from India</h3>
 
 - 🌱 I’m currently learning **Android Apps Development using Flutter**
