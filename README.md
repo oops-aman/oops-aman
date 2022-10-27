@@ -21,7 +21,7 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=oops-aman&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<a[![GitHub Streak](https://streak-stats.demolab.com/?user=oops-aman&theme=tokyonight_duo)](https://git.io/streak-stats) </a> <a![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oops-aman&show_icons=true&theme=midnight-purple) </a>
+<a [![GitHub Streak](https://streak-stats.demolab.com/?user=oops-aman&theme=tokyonight_duo)](https://git.io/streak-stats) </a> <a![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oops-aman&show_icons=true&theme=midnight-purple) </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oops-aman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
